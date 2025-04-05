@@ -1,0 +1,16 @@
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\bin\Debug\net8.0-windows\practica 6.exe
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\bin\Debug\net8.0-windows\practica 6.deps.json
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\bin\Debug\net8.0-windows\practica 6.runtimeconfig.json
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\bin\Debug\net8.0-windows\practica 6.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\bin\Debug\net8.0-windows\practica 6.pdb
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\practica_6.Form1.resources
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\practica 6.csproj.GenerateResource.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\practica 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\practica 6.AssemblyInfoInputs.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\practica 6.AssemblyInfo.cs
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\practica 6.csproj.CoreCompileInputs.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\practica 6.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\refint\practica 6.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\practica 6.pdb
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\practica 6.genruntimeconfig.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 6\obj\Debug\net8.0-windows\ref\practica 6.dll
