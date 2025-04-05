@@ -1,0 +1,16 @@
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\bin\Debug\net8.0-windows\practica 9.exe
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\bin\Debug\net8.0-windows\practica 9.deps.json
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\bin\Debug\net8.0-windows\practica 9.runtimeconfig.json
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\bin\Debug\net8.0-windows\practica 9.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\bin\Debug\net8.0-windows\practica 9.pdb
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\practica_9.Form1.resources
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\practica 9.csproj.GenerateResource.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\practica 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\practica 9.AssemblyInfoInputs.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\practica 9.AssemblyInfo.cs
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\practica 9.csproj.CoreCompileInputs.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\practica 9.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\refint\practica 9.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\practica 9.pdb
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\practica 9.genruntimeconfig.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 9\obj\Debug\net8.0-windows\ref\practica 9.dll
