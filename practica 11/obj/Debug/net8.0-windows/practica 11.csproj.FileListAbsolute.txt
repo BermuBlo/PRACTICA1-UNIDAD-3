@@ -1,0 +1,16 @@
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\bin\Debug\net8.0-windows\practica 11.exe
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\bin\Debug\net8.0-windows\practica 11.deps.json
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\bin\Debug\net8.0-windows\practica 11.runtimeconfig.json
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\bin\Debug\net8.0-windows\practica 11.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\bin\Debug\net8.0-windows\practica 11.pdb
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\practica_11.Form1.resources
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\practica 11.csproj.GenerateResource.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\practica 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\practica 11.AssemblyInfoInputs.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\practica 11.AssemblyInfo.cs
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\practica 11.csproj.CoreCompileInputs.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\practica 11.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\refint\practica 11.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\practica 11.pdb
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\practica 11.genruntimeconfig.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\practica 11\obj\Debug\net8.0-windows\ref\practica 11.dll
