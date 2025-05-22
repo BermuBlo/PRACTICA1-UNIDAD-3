@@ -1,0 +1,16 @@
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\bin\Debug\net8.0-windows\Practica 17.exe
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\bin\Debug\net8.0-windows\Practica 17.deps.json
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\bin\Debug\net8.0-windows\Practica 17.runtimeconfig.json
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\bin\Debug\net8.0-windows\Practica 17.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\bin\Debug\net8.0-windows\Practica 17.pdb
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\Practica_17.Form1.resources
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\Practica 17.csproj.GenerateResource.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\Practica 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\Practica 17.AssemblyInfoInputs.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\Practica 17.AssemblyInfo.cs
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\Practica 17.csproj.CoreCompileInputs.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\Practica 17.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\refint\Practica 17.dll
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\Practica 17.pdb
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\Practica 17.genruntimeconfig.cache
+C:\Users\one_c\Desktop\Practica 1 unidad 3 Juan Pablo Bermudez Dominguez\Practica 17\obj\Debug\net8.0-windows\ref\Practica 17.dll
